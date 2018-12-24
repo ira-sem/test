@@ -8,14 +8,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2017-06-10T04:17:14+00:00\n"
-"PO-Revision-Date: 2018-12-14 14:17\n"
+"PO-Revision-Date: 2018-12-24 10:43\n"
 "X-Crowdin-SourceKey: msgstr\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: tests-ira\n"
 "X-Crowdin-Language: de\n"
-"X-Crowdin-File: /master/rep.po\n"
+"X-Crowdin-File: /master/translations/es/rep.po\n"
 
 #: site.com/_core/views/footer.php
 #: site.com/_core/views/navbar.php
