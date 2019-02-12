@@ -1,3 +1,7 @@
 files:
   - source: /*.*
     translation: /translation/%language%/%original_file_name%
+    export_languages: [                                   
+    fr, 
+    de
+  ]
