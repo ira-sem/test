@@ -5,5 +5,5 @@
     <string name="identifier_1">Sunday morning</string>
     <string name="identifier_2" comment="Type string's context here">Not for translation</string>
     <!--context for string 3-->
-    <string name="identifier_3" androidmaxLength="10">Not for translation</string>
+    <string name="identifier_3" androidmaxLength="10">Nicht für Übersetzung</string>
 </resources>
