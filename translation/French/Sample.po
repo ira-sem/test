@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tests-ira\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2008-09-03 10:09+0200\n"
-"PO-Revision-Date: 2019-01-02 18:53\n"
+"PO-Revision-Date: 2019-02-19 13:50\n"
 "Last-Translator: sem_ira <is@crowdin.com>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgstr "Salut."
 
 #: great idea
 msgid "Great idea1"
-msgstr ""
+msgstr "C'est très bien !"
 
 #: plurals
 #, string with plurals forms
