@@ -4,17 +4,17 @@
     <body>
       <trans-unit id="874396" size-unit="char">
         <source>Si vous n'êtes pas redirigé après quelques secondes, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>cliquez ici<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
-        <target xml:lang="fr" state="translated">Si vous n'êtes pas redirigé après quelques secondes, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/> cliquez ici <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
+        <target state="translated">Si vous n'êtes pas redirigé après quelques secondes, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/> cliquez ici <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
         <note>Context</note>
       </trans-unit>
       <trans-unit id="874397">
         <source>text 1</source>
-        <target xml:lang="fr" state="translated">text 1</target>
+        <target state="translated">text 1</target>
         <note>Context 1</note>
       </trans-unit>
       <trans-unit id="874398">
         <source>text 2</source>
-        <target xml:lang="fr" state="translated">text 2</target>
+        <target state="translated">text 2</target>
         <context context-type="context">Context of the segment 2</context>
       </trans-unit>
     </body>
