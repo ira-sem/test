@@ -1,35 +1,22 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: tests-ira\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-09-03 10:09+0200\n"
-"PO-Revision-Date: 2019-04-17 19:24\n"
-"Last-Translator: sem_ira\n"
-"Language-Team: Ukrainian\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
-"X-Generator: crowdin.com\n"
-"X-Crowdin-Project: tests-ira\n"
-"X-Crowdin-Language: uk\n"
-"X-Crowdin-File: /master/Sample.po\n"
-"Language: uk_UA\n"
-
-#: hi
-msgid "Hello."
-msgstr ""
-
-#: great idea
-msgid "Great idea1"
-msgstr ""
-
-#: plurals
-#, string with plurals forms
-msgid "Time: %1 second"
-msgid_plural "Time: %1 seconds"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file id="19704" original="/Example (AndroidXML).xml" source-language="en" target-language="uk" datatype="plaintext">
+    <body>
+      <trans-unit id="874396" size-unit="char">
+        <source>Si vous n'êtes pas redirigé après quelques secondes, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>cliquez ici<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <target state="translated">Si vous n'êtes pas redirigé апре Абеля secondes, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/> cliquez ici <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
+        <note>Context</note>
+      </trans-unit>
+      <trans-unit id="874397">
+        <source>text 1</source>
+        <target state="translated">текст</target>
+        <note>Context 1</note>
+      </trans-unit>
+      <trans-unit id="874398">
+        <source>text 2</source>
+        <target state="translated">текст</target>
+        <context context-type="context">Context of the segment 2</context>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
