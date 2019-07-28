@@ -1,3 +1,3 @@
 files:
   - source: /*.*
-    translation: /translation/%language%/%osx_locale%
+    translation: /translation/%language%/%original_file_name%
