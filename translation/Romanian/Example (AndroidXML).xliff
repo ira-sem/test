@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file id="486" original="/master/Example (AndroidXML).xml" source-language="en" target-language="ro" datatype="plaintext">
+    <body>
+      <trans-unit id="193144" identifier="5aa7c95feced0f88df1fbb488de37d6a">
+        <source>Sunday morning</source>
+        <target>crwdns235100:0crwdne235100:0</target>
+        <note>Context: identifier_1</note>
+      </trans-unit>
+      <trans-unit id="193146" identifier="1811832ced703e098733a5230f36d0f5">
+        <source>Not for translation</source>
+        <target>crwdns235102:0crwdne235102:0</target>
+        <note>Context: identifier_2
+Type string's context here</note>
+      </trans-unit>
+      <trans-unit id="193148" identifier="8151d5668c816fb4a8431aebbd4194e6">
+        <source>Not for translation</source>
+        <target>crwdns235104:0crwdne235104:0</target>
+        <note>Context: identifier_3
+context for string 3</note>
+      </trans-unit>
+      <trans-unit id="193150" identifier="eb683dc4e08099cd6494b011f7c48279" translate="no">
+        <source>Good afternoon</source>
+        <target>crwdns235106:0crwdne235106:0</target>
+        <note>Context: identifier_4</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
