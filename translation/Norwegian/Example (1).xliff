@@ -2,10 +2,11 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file id="19704" original="/Example (AndroidXML).xml" source-language="en" target-language="no" datatype="plaintext">
     <body>
-      
-      
-      
-      
+      <trans-unit id="874397">
+        <source>text 1</source>
+        <target state="translated">tekst 1</target>
+        <note>Context 1</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
