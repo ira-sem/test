@@ -1,3 +1,4 @@
 files:
   - source: /*.*
     translation: /translation/%language%/%original_file_name%
+    "escape_special_characters": 0
