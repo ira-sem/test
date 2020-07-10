@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="874397">
         <source>text 1</source>
-        <target state="needs-translation">text 1</target>
+        <target state="translated">Text  </target>
         <note>Context 1</note>
       </trans-unit>
       <trans-unit id="874398">
