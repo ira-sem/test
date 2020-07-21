@@ -7,9 +7,9 @@
         <target state="needs-translation">Si vous n'êtes pas redirigé après quelques secondes, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>cliquez ici<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
         <note>Context</note>
       </trans-unit>
-      <trans-unit id="874397">
+      <trans-unit id="874397" approved="yes">
         <source>text 1</source>
-        <target state="needs-translation">text 1</target>
+        <target state="final">text 1</target>
         <note>Context 1</note>
       </trans-unit>
       <trans-unit id="874398">
