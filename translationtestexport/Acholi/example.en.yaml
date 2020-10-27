@@ -1,0 +1,17 @@
+---
+#An employee record
+name: crwdns659170:0crwdne659170:0
+job: crwdns659172:0crwdne659172:0
+skill: crwdns659174:0crwdne659174:0
+employed: true
+foods:
+  - crwdns659176:0crwdne659176:0
+  - crwdns659178:0crwdne659178:0
+  - crwdns659180:0crwdne659180:0
+  - crwdns659182:0crwdne659182:0
+languages:
+  perl: crwdns659184:0crwdne659184:0
+  python: crwdns659186:0crwdne659186:0
+  pascal: crwdns659188:0crwdne659188:0
+education: |
+  crwdns659190:0crwdne659190:0
