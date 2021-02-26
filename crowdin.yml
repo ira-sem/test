@@ -1,6 +1,6 @@
 export_languages:
   - fr
 files:
-  - source: /*.xliff
+  - source: /*.xlf
     translation: /translationfiles/%two_letters_code%_%original_file_name%
     type: xliff
