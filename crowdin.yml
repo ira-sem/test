@@ -1,6 +1,0 @@
-export_languages:
-  - fr
-files:
-  - source: /*.txt
-    translation: /translationfiles/%two_letters_code%_%original_file_name%
-    type: properties
