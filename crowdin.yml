@@ -1,5 +1,5 @@
 preserve_hierarchy: true
 files:
-  - source: /folder1/folder2/*json
-    dest: /**/%file_name%.json
+  - source: /folder1/**/*json
     translation: /translations/%language%/%original_file_name%
+    dest: /**/%file_name%.json
