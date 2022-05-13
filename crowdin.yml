@@ -5,3 +5,4 @@ files:
     dest: /**/%original_file_name%
     content_segmentation: 0
     skip_untranslated_files: true
+    skip_untranslated_strings: true
