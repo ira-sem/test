@@ -1,3 +1,3 @@
 files:
   - source: /*.json
-    translation: /folertr/%language%/%original_file_name%
+    translation: /folertr/%locale%/%original_file_name%
