@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd" version="1.2">
+  <file original="translations" datatype="plaintext" source-language="en-US">
+    <body>
+      <trans-unit id="deleteUserEmailSubject">
+        <source>Your {{brand.brandName}} account has been deleted.</source>
+      </trans-unit>
+      <trans-unit id="downloadCreateFailureTooMany">
+        <source>You have already created {{maxCopies}} copies of your data. Delete one before you can create another.</source>
+      </trans-unit>
+      <trans-unit id="downloadProcessed">
+        <source>A copy of your {{brand.brandName}} data is available.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
