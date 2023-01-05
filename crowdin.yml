@@ -1,3 +1,0 @@
-files:
-  - source: /folder 1/*.json
-    translation: /foler 1 translations/%osx_locale%.%original_file_name%
