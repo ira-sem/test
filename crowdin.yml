@@ -1,0 +1,3 @@
+files:
+  - source: /*.xlf
+    translation: /folder/%file_name%.%locale%.xlf
