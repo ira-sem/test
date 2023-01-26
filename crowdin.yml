@@ -1,3 +1,4 @@
+base_path: /folder 2
 files:
   - source: /**/example.json
     translation: /translations/%two_letters_code%/%file_name%
