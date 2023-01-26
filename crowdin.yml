@@ -1,4 +1,5 @@
 base_path: /folder 1/folder 2
+preserve_hierarchy: false
 files:
   - source: /**/example.json
     translation: /translations/%two_letters_code%/%file_name%
