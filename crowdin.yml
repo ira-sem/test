@@ -1,5 +1,5 @@
 base_path: /test1/test2
-preserve_hierarchy: false
+preserve_hierarchy: true
 files:
   - source: /**/file.json
     translation: /translations/%two_letters_code%/%file_name%
