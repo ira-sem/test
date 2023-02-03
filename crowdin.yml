@@ -1,6 +1,4 @@
 files:
   - source: /*json
     translation: /translations/%original_file_name%.%language%
-    "excluded_target_languages": [
-      "uk",
-      "de"
+  
