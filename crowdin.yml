@@ -1,3 +1,3 @@
 files:
-  - source: /*.json
-    translation: /translations/%language%/%original_file_name%
+  - source: /org/docs/**/*.ini
+    translation: /translationsщкп/%language%/%original_file_name%
