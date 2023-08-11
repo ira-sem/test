@@ -1,7 +1,0 @@
-files:
-  - source: /*.json
-    translation: /translations/%locale%.%original_file_name%
-  - source: /*yaml
-    translation: /translations/%language%/%original_file_name%
-  - source: /*txt
-    translation: /folder/%language%/%original_file_name%
