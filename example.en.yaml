@@ -8,7 +8,7 @@ foods:
     - Apple
     - Orange
     - Strawberry     # context
-    - Mango
+    - Mango1
 languages:
     perl: Elite
     python: Elite
