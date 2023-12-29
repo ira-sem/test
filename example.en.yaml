@@ -2,7 +2,7 @@
 # An employee record
 name: Martin D'vloper
 job: Developer
-skill: Elite
+skill: Elite edited
 employed: True
 foods:
     - Apple
