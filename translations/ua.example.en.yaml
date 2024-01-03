@@ -2,17 +2,17 @@
 #An employee record
 name: Martin D'vloper
 job: Developer
-skill: Elite
+skill: Elite edited
 employed: True
 foods:
   - Apple
   - Orange
   - Strawberry
-  - Mango
+  - Mango1
 languages:
   perl: Elite
   python: Elite
-  pascal: Lame
+  pascal: Lame1a
 education: |
   4 GCSEs
   3 A-Levels
