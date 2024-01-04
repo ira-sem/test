@@ -1,11 +1,11 @@
 ---
 #An employee record
 name: Martin D'vloper
-job: Developer
+job: Développeur
 skill: Elite edited
 employed: True
 foods:
-  - Apple
+  - Pomme
   - Orange
   - Strawberry
   - Mango1
