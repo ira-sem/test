@@ -1,14 +1,14 @@
 ---
 #An employee record
 name: Martin D'vloper
-job: Developer
+job: розробник
 skill: Elite edited
 employed: True
 foods:
   - Apple
   - Orange
-  - Strawberry
-  - Mango1
+  - Полуниця
+  - Манго1
 languages:
   perl: Elite
   python: Elite
