@@ -1,3 +1,0 @@
-files:
-  - source: testfortest.json
-    translation: /translations/%language%.%original_file_name%
