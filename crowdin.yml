@@ -1,6 +1,3 @@
 files:
-  - source: en*
-    translation: /_i18n/%two_letters_code%%original_file_name%
-    type: md35
-  - source: en.yaml
-    translation: /_i18n/%two_letters_code%.yml
+  - source: testfortest.json
+    translation: '%original_path%/%locale_with_underscore%.json'
