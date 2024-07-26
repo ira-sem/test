@@ -1,3 +1,3 @@
 files:
-  - source: testfortest.json
-    translation: '%original_path%/%locale_with_underscore%.json'
+  - source: '*png'
+    translation: /%locale_with_underscore%/%original_file_name%
