@@ -1,3 +1,5 @@
 files:
   - source: '*png'
     translation: /%locale_with_underscore%/%original_file_name%
+bundles:
+  - 50
