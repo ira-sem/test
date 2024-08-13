@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="7090" original="/main/Strings" source-language="en" target-language="uk" datatype="plaintext" project-id="664864" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="3269012" resname="1" approved="yes">
+        <source>Text for translation 1</source>
+        <target state="final">Текст для перекладу 1</target>
+        <context-group purpose="information">
+          <context context-type="source">1
+context_1</context>
+          <context context-type="x-crowdin-label">Sample.csv</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3269014" resname="2" approved="yes">
+        <source>Text for translation 2</source>
+        <target state="final">Текст для перекладу 2</target>
+        <context-group purpose="information">
+          <context context-type="source">2
+Context_2</context>
+          <context context-type="x-crowdin-label">Sample.csv</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3269016" resname="3" approved="yes">
+        <source>Text for translation 3</source>
+        <target state="final">Текст для перекладу 3</target>
+        <context-group purpose="information">
+          <context context-type="source">3
+Context_3</context>
+          <context context-type="x-crowdin-label">Sample.csv</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3269018" resname="4" approved="yes">
+        <source>Text for translation 4</source>
+        <target state="final">Текст для перекладу 4</target>
+        <context-group purpose="information">
+          <context context-type="source">4
+Context_4</context>
+          <context context-type="x-crowdin-label">Sample.csv</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3269020" resname="5" approved="yes">
+        <source>Text for translation 5</source>
+        <target state="final">Текст для перекладу 5</target>
+        <context-group purpose="information">
+          <context context-type="source">5
+Context_5</context>
+          <context context-type="x-crowdin-label">Sample.csv</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
