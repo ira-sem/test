@@ -1,5 +1,5 @@
 bundles:
   - 50
 files:
-  - source: '*.ini'
+  - source: /*.ini
     translation: /%two_letters_code%/%original_file_name%
